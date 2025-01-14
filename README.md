@@ -20,7 +20,7 @@ This repository contains a simple URL shortener application.
 
 1. **Clone the repository:**
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/mesomnath/url-shortner-php.git
 
 2. **Create a database:**
 
